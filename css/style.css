@@ -1,0 +1,26 @@
+:root {
+  /* COLORS */
+  --white: #fff;
+  --soft-blue: #8bacd9;
+  --cyan: #00fff8;
+  --dark-blue-main-bg: #0d192c;
+  --dark-blue-card-bg: #15263f;
+  --dark-blue-line: #2e405a;
+  /* FONTS */
+}
+
+/* GLOBAL RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* GENRAL STYLES */
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: var(--dark-blue-main-bg);
+}
